@@ -8,6 +8,8 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+minhas alterações em 07/06/2025
+modificando arquivo para testar a branch docs/readme
 
 inserindo coisas novas nesse arquivo
 
